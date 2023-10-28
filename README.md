@@ -8,3 +8,6 @@ https://archive.ics.uci.edu/dataset/304/blogfeedback
 
 ## 3. Task
 Conduct your analysis using python and prepare a communication outlining your findings and recommendations
+
+## 4. Personal Artefacts
+https://drive.google.com/drive/folders/13H9f0hxb02lj0LZDkGEemVzmbC8Mg8w9?usp=sharing
